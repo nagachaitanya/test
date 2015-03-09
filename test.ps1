@@ -1,5 +1,6 @@
 Param(
     [Parameter(Mandatory=$True)]
+	[String[]]
     $Directory
 )
 write-host "Creating a directory.."
