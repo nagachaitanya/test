@@ -1,2 +1,2 @@
 param($VariableA)
-write-host "hello im VariableA"
+write-host "hello i'm $VariableA"
